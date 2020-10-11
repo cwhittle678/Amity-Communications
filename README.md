@@ -1,1 +1,3 @@
 # Amity-Communications
+Group Project for both a computer networks and cyber security class in 2019. The original system was designed to be a windows based user friendly group chat interface featuring TCP protocol and an interactive/pleasing graphical user interface. The upgraded system featured RSA data encryption and a client/server group chat key infrastructure to add layers of security. The system also featured distinct user profiles.
+These programs were written using Windows Forms in C#
